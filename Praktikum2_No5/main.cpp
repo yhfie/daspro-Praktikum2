@@ -5,7 +5,8 @@ using namespace std;
 int main()
 {
     int jariJari, tinggiTabung;
-    float kelilingAlas, luasAlas, volumeTabung, phi = 3.14;
+    float kelilingAlas, luasAlas, volumeTabung;
+    const float phi = 3.14;
 
     jariJari = 7;
     tinggiTabung = 7;
